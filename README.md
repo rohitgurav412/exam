@@ -1,0 +1,2 @@
+# exam
+sdm exam start
